@@ -1,6 +1,12 @@
 Мой дневник по стажировке https://trello.com/b/18rcLAl6/design
 
 
+Разминка для мозгов https://www.youtube.com/watch?v=hEerhyybTXs
+
+
+Мануал по Stable Diffusion: https://pyimagesearch.com/2024/03/11/understanding-tasks-in-diffusers-part-2/
+
+
 ![photo1](https://github.com/NeuronsUII/Cork_Gallery_g1/assets/29410375/09da5a4c-e2d9-45f2-8ba6-b8857004dd1e)
 
 
