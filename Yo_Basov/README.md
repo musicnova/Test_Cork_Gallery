@@ -1,6 +1,12 @@
 Мой дневник по стажировке https://trello.com/b/18rcLAl6/design
 
 
+Про ControlNet внутри небольшая статейка https://habr.com/ru/companies/ruvds/articles/719348/
+
+
+Свежая статья от 2 июля от самолёт - https://habr.com/ru/companies/samolet/articles/825750/
+
+
 Разминка для мозгов https://www.youtube.com/watch?v=hEerhyybTXs
 
 
