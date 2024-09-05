@@ -31,3 +31,5 @@ path_json = r'.\textures\tex_json'
 path_logo = r'.\logo\logo.png'
 config_path = r'.\config\upernet_beit-large_fp16_8x1_640x640_160k_ade20k.py'
 checkpoint_path = r'.\upernet_beit-large_fp16_8x1_640x640_160k_ade20k-8fc0dd5d.pth'
+Ссылка на google диск
+https://drive.google.com/drive/folders/13c6xBqIIyukCMydDyo57QziqQOu5OjhD?usp=sharing
